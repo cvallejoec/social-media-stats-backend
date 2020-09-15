@@ -1,5 +1,6 @@
 const data = {
   facebook: {
+    username: 'nathanf',
     followers: 1987,
     todayStats: 12,
     todayStatsType: 'increase',
@@ -15,6 +16,7 @@ const data = {
     },
   },
   twitter: {
+    username: 'nathanf',
     followers: 1044,
     todayStats: 99,
     todayStatsType: 'increase',
@@ -30,6 +32,7 @@ const data = {
     },
   },
   instagram: {
+    username: 'realnathanf',
     followers: 11000,
     todayStats: 1099,
     todayStatsType: 'increase',
@@ -45,6 +48,7 @@ const data = {
     },
   },
   youtube: {
+    username: 'Nathan F.',
     subscribers: 8239,
     todayStats: 144,
     todayStatsType: 'decrease',
